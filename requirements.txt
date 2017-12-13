@@ -1,0 +1,5 @@
+seaborn
+numpy
+sklearn
+keras
+tensorflow
